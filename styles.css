@@ -1,0 +1,26 @@
+h1{
+    font-size: 42pt;
+    color: midnightblue;
+}
+
+body {
+    background: lightblue;
+    color: dimgray;
+    font-size: 14pt;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+a {
+    display: inline-block;
+    border: 2px solid black;
+    padding: 8px;
+    margin: 30px;
+    background: dimgray;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: aqua;
+}
